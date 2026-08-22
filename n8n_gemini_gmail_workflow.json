@@ -1,0 +1,138 @@
+{
+  "name": "Employee Salary Prediction - Gemini 2.5 Flash + Gmail",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "employee-salary-prediction",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "Webhook",
+      "name": "Employee Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -700,
+        0
+      ],
+      "webhookId": "employee-salary-prediction"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Employee ID: {{$json.employee_id}}\nEmployee Name: {{$json.name}}\nEmployee Email: {{$json.email}}\nExperience: {{$json.experience}} years\nEducation Level: {{$json.education_level}}%\nPerformance Rating: {{$json.performance_rating}}%\nSkill Score: {{$json.skill_score}}%\nPrevious Salary Percentile: {{$json.previous_salary_percentile}}%\nML Prediction: {{$json.prediction}}\nRetention Risk: {{$json.risk}}",
+        "options": {
+          "systemMessage": "You are an HR compensation advisor. Generate a personalized salary and retention recommendation in 2 to 4 sentences. Mention the employee's strengths, identify the main area affecting their salary band, and provide practical HR actions. Use the supplied employee values and ML prediction. The recommendation must be personalized to the employee. Do not use fixed rule-based recommendation text. Do not mention that you are an AI. Return only the recommendation text."
+        }
+      },
+      "id": "Agent",
+      "name": "Gemini AI Recommendation",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        -430,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-2.5-flash",
+        "options": {}
+      },
+      "id": "Gemini",
+      "name": "Google Gemini 2.5 Flash",
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        -430,
+        230
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "message",
+        "operation": "send",
+        "sendTo": "={{ $('Employee Webhook').first().json.email }}",
+        "subject": "=Employee Salary Prediction Recommendation - {{ $('Employee Webhook').first().json.prediction }}",
+        "emailType": "text",
+        "message": "=Hello {{ $('Employee Webhook').first().json.name }},\n\nYour Employee Salary Prediction and Analysis result is:\n\nPrediction: {{ $('Employee Webhook').first().json.prediction }}\nRetention Risk: {{ $('Employee Webhook').first().json.risk }}\n\nAI Recommendation:\n{{ $('Gemini AI Recommendation').first().json.output }}\n\nEmployee ID: {{ $('Employee Webhook').first().json.employee_id }}\nExperience: {{ $('Employee Webhook').first().json.experience }} years\nEducation Level: {{ $('Employee Webhook').first().json.education_level }}%\nPerformance Rating: {{ $('Employee Webhook').first().json.performance_rating }}%\nSkill Score: {{ $('Employee Webhook').first().json.skill_score }}%\nPrevious Salary Percentile: {{ $('Employee Webhook').first().json.previous_salary_percentile }}%\n\nRegards,\nEmployee Salary Prediction and Analysis System"
+      },
+      "id": "Gmail",
+      "name": "Send Recommendation Email",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        -100,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { recommendation: $('Gemini AI Recommendation').first().json.output || '', prediction: $('Employee Webhook').first().json.prediction, risk: $('Employee Webhook').first().json.risk, email_sent: true } }}",
+        "options": {}
+      },
+      "id": "Respond",
+      "name": "Respond to Python",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        170,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Employee Webhook": {
+      "main": [
+        [
+          {
+            "node": "Gemini AI Recommendation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini AI Recommendation": {
+      "main": [
+        [
+          {
+            "node": "Send Recommendation Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini 2.5 Flash": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Gemini AI Recommendation",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send Recommendation Email": {
+      "main": [
+        [
+          {
+            "node": "Respond to Python",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {},
+  "versionId": "employee-salary-gemini-gmail-v1"
+}
