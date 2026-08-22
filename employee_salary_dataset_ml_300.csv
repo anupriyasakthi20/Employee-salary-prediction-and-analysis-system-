@@ -1,0 +1,310 @@
+Employee ID,Name,Email,Experience,Education Level,Performance Rating,Skill Score,Previous Salary Percentile,Prediction,Risk Level,Recommendation
+EMP1204,Vignesh Kumar,vignesh168@company.com,23.1,56.5,46.4,60.6,38.8,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1267,Priya Reddy,priya783@company.com,13.3,24.8,31.5,24.3,21.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1153,Priya Balan,priya29@gmail.com,35.0,65.9,43.6,56.5,42.3,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1010,Praveen Prasad,praveen643@gmail.com,35.0,100.0,66.1,98.9,51.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1234,Suresh Rao,suresh166@yahoo.com,22.7,42.6,27.6,10.0,37.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1227,Ganesh Reddy,ganesh466@company.com,18.4,41.7,27.8,44.2,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1197,Revathi Kumar,revathi8@gmail.com,35.0,48.9,47.9,63.7,47.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1110,Kiran Subramaniam,kiran884@company.com,35.0,67.6,38.6,81.2,58.0,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1006,Lakshmi Murthy,lakshmi338@yahoo.com,35.0,100.0,93.9,92.4,78.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1176,Lakshmi Balan,lakshmi435@gmail.com,31.5,73.8,49.9,37.6,37.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1238,Manoj Iyer,manoj378@company.com,7.8,15.0,34.3,10.0,13.9,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1058,Kavya Ramanathan,kavya251@gmail.com,35.0,98.5,92.8,100.0,82.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1219,Karthick Nair,karthick13@yahoo.com,35.0,59.9,28.4,63.5,29.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1046,Dinesh Venkat,dinesh177@company.com,35.0,100.0,96.2,82.7,93.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1183,Lakshmi Subramaniam,lakshmi613@company.com,35.0,44.6,39.9,51.3,59.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1222,Vignesh Raj,vignesh45@gmail.com,24.6,57.7,38.4,51.5,38.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1290,Kiran Subramaniam,kiran123@company.com,2.1,18.4,28.6,35.1,11.8,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1212,Naveen Murthy,naveen674@gmail.com,35.0,41.1,31.5,33.3,42.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1149,Sneha Menon,sneha231@outlook.com,35.0,100.0,56.2,64.6,56.7,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1166,Praveen Iyer,praveen20@outlook.com,35.0,58.7,59.7,35.0,40.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1079,Divya Selvam,divya606@yahoo.com,35.0,87.8,58.0,78.7,64.0,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1114,Vignesh Kumar,vignesh102@gmail.com,35.0,62.3,59.6,41.1,42.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1250,Dinesh Raj,dinesh273@yahoo.com,2.8,36.9,27.0,25.6,22.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1251,Kavya Reddy,kavya478@company.com,4.2,41.3,23.5,23.7,20.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1105,Hema Menon,hema807@company.com,33.2,92.6,62.1,62.6,55.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1043,Sanjay Ramanathan,sanjay493@yahoo.com,35.0,100.0,95.6,83.5,71.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1282,Vignesh Iyer,vignesh7@gmail.com,31.6,23.3,15.0,45.0,17.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1296,Karthick Pillai,karthick662@gmail.com,0.0,18.6,33.5,25.1,29.9,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1158,Ganesh Rao,ganesh665@company.com,35.0,67.1,34.8,55.0,47.8,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1239,Naveen Reddy,naveen604@outlook.com,10.2,51.9,18.4,10.0,10.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1018,Bhavani Menon,bhavani416@yahoo.com,35.0,99.0,99.8,70.0,84.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1165,Meena Pillai,meena731@yahoo.com,22.2,52.5,49.1,61.4,55.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1034,Arjun Reddy,arjun53@company.com,31.3,100.0,80.0,91.1,67.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1025,Arjun Iyer,arjun801@outlook.com,35.0,100.0,90.7,73.3,89.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1216,Revathi Shankar,revathi937@outlook.com,35.0,78.7,37.9,20.6,30.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1120,Priya Chandran,priya418@company.com,27.7,74.2,46.3,100.0,63.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1008,Dinesh Nair,dinesh490@yahoo.com,35.0,96.7,66.2,78.9,93.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1091,Naveen Murthy,naveen477@outlook.com,35.0,65.7,81.2,70.4,58.7,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1047,Ashok Shankar,ashok891@gmail.com,35.0,92.6,100.0,100.0,54.9,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1074,Kavya Rao,kavya613@outlook.com,35.0,92.5,89.8,100.0,100.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1094,Arjun Venkat,arjun624@gmail.com,35.0,85.7,44.7,62.4,68.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1077,Nithya Iyer,nithya787@company.com,35.0,65.0,71.5,65.7,73.0,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1287,Swathi Balan,swathi503@outlook.com,1.3,55.5,21.4,47.6,29.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1061,Sanjay Prasad,sanjay457@outlook.com,35.0,100.0,100.0,98.4,71.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1078,Manoj Iyer,manoj845@yahoo.com,32.4,85.6,68.1,62.3,73.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1064,Priya Subramaniam,priya435@yahoo.com,35.0,97.0,96.7,99.0,99.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1235,Vignesh Raj,vignesh905@company.com,3.8,45.1,40.7,34.1,25.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1230,Ganesh Kumar,ganesh828@yahoo.com,8.9,42.7,32.2,22.6,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1112,Hema Menon,hema527@outlook.com,35.0,66.7,56.7,74.4,68.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1232,Ramesh Krishnan,ramesh293@outlook.com,3.4,30.3,29.8,27.2,12.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1181,Meena Reddy,meena210@outlook.com,35.0,51.5,33.7,34.3,24.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1145,Meena Kumar,meena110@company.com,35.0,91.6,66.5,84.9,37.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1240,Ravi Kumar,ravi55@outlook.com,12.3,48.2,22.7,15.3,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1076,Uma Raj,uma847@yahoo.com,35.0,57.7,74.6,77.0,90.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1298,Nithya Kumar,nithya414@gmail.com,0.1,41.4,15.0,35.4,16.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1279,Bhavani Subramaniam,bhavani439@yahoo.com,10.4,43.9,41.4,51.2,21.8,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1098,Bhavani Iyer,bhavani751@company.com,35.0,91.2,63.6,74.3,49.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1093,Anitha Chandran,anitha229@yahoo.com,35.0,97.3,45.5,79.8,65.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1193,Anitha Prasad,anitha154@outlook.com,20.7,56.4,60.7,44.7,34.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1026,Deepa Venkat,deepa470@yahoo.com,35.0,90.2,96.6,95.8,91.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1233,Karthick Chandran,karthick496@outlook.com,0.0,35.0,15.0,38.8,10.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1060,Divya Gopal,divya709@yahoo.com,35.0,70.6,74.2,88.5,79.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1007,Suresh Chandran,suresh813@gmail.com,35.0,94.5,97.7,94.8,55.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1186,Praveen Krishnan,praveen876@gmail.com,16.1,81.7,49.2,45.7,12.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1174,Revathi Chandran,revathi944@yahoo.com,35.0,58.2,42.2,54.9,63.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1031,Praveen Raj,praveen639@yahoo.com,35.0,100.0,89.6,77.6,82.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1023,Lakshmi Balan,lakshmi131@company.com,35.0,100.0,94.4,72.7,61.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1257,Manoj Venkat,manoj661@yahoo.com,0.5,30.1,33.2,26.5,23.2,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1057,Vignesh Prasad,vignesh547@gmail.com,35.0,99.4,77.3,67.6,58.8,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1187,Revathi Kumar,revathi981@yahoo.com,33.6,33.1,39.0,63.9,47.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1109,Dinesh Ramanathan,dinesh306@outlook.com,35.0,86.6,56.6,91.7,43.7,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1127,Naveen Reddy,naveen303@company.com,35.0,83.0,71.6,62.2,64.6,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1231,Manoj Murthy,manoj101@gmail.com,13.4,40.5,35.8,19.2,6.5,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1194,Kavya Venkat,kavya713@company.com,34.8,68.5,39.8,57.2,36.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1130,Meena Prasad,meena842@outlook.com,35.0,69.5,57.8,77.4,55.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1283,Meena Varma,meena928@company.com,5.0,43.4,25.8,35.1,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1083,Pooja Pillai,pooja923@company.com,35.0,91.8,54.5,69.4,72.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1085,Priya Venkat,priya755@company.com,35.0,79.7,69.5,85.6,52.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1067,Karthick Selvam,karthick667@gmail.com,35.0,100.0,73.7,82.8,65.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1289,Divya Subramaniam,divya857@yahoo.com,23.3,25.8,25.5,34.6,12.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1164,Muthu Chandran,muthu136@outlook.com,6.5,60.9,66.7,58.7,44.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1155,Anitha Prasad,anitha228@yahoo.com,35.0,74.7,43.5,51.3,40.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1020,Dinesh Iyer,dinesh403@outlook.com,35.0,100.0,73.1,82.1,81.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1125,Deepa Varma,deepa276@gmail.com,35.0,70.2,72.6,77.7,52.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1080,Muthu Venkat,muthu379@outlook.com,35.0,86.4,57.9,83.2,60.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1115,Ashok Prasad,ashok672@yahoo.com,35.0,84.7,58.1,71.3,59.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1119,Nithya Chandran,nithya353@yahoo.com,35.0,61.0,54.9,74.8,45.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1073,Kavya Selvam,kavya233@gmail.com,35.0,81.3,87.5,85.1,50.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1016,Pooja Gopal,pooja830@gmail.com,35.0,100.0,77.0,82.8,84.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1011,Hema Murthy,hema691@yahoo.com,35.0,88.8,94.4,81.4,84.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1195,Anitha Gopal,anitha286@gmail.com,21.0,73.0,38.6,61.3,45.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1102,Ganesh Krishnan,ganesh39@yahoo.com,35.0,97.2,64.4,39.6,83.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1069,Vignesh Rao,vignesh794@gmail.com,35.0,82.8,82.7,90.8,48.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1225,Nithya Gopal,nithya183@yahoo.com,35.0,45.1,45.7,53.9,59.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1038,Kiran Selvam,kiran76@outlook.com,35.0,97.5,88.3,100.0,69.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1017,Muthu Gopal,muthu952@gmail.com,35.0,89.8,75.1,100.0,94.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1180,Muthu Venkat,muthu779@company.com,21.2,50.4,19.4,38.6,37.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1148,Muthu Venkat,muthu930@outlook.com,35.0,85.6,62.2,56.6,43.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1275,Praveen Pillai,praveen452@gmail.com,8.1,56.8,17.1,18.9,12.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1068,Nithya Menon,nithya513@gmail.com,35.0,100.0,92.4,82.6,62.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1229,Manoj Kumar,manoj619@yahoo.com,3.7,35.2,36.5,10.5,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1070,Praveen Prasad,praveen474@company.com,35.0,97.6,70.3,90.6,82.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1032,Swathi Murthy,swathi828@outlook.com,35.0,85.8,90.4,100.0,70.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1184,Sanjay Murthy,sanjay162@company.com,23.1,49.7,58.7,49.9,44.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1266,Muthu Menon,muthu753@gmail.com,6.8,62.6,30.7,23.0,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1226,Pooja Ramanathan,pooja14@outlook.com,0.0,33.4,38.1,28.1,33.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1141,Vignesh Chandran,vignesh311@company.com,35.0,90.0,56.5,74.2,72.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1019,Revathi Nair,revathi884@outlook.com,35.0,100.0,94.0,100.0,67.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1182,Vignesh Selvam,vignesh283@outlook.com,35.0,84.2,23.0,55.3,24.3,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1097,Nithya Menon,nithya731@company.com,35.0,84.2,34.1,67.1,69.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1133,Meena Iyer,meena373@company.com,35.0,70.4,59.2,55.4,63.7,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1263,Swathi Nair,swathi537@company.com,0.0,49.6,34.8,21.5,30.9,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1087,Sneha Kumar,sneha831@outlook.com,35.0,87.5,57.8,93.2,56.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1249,Manoj Nair,manoj601@outlook.com,9.2,40.4,29.5,25.7,19.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1246,Swathi Nair,swathi596@company.com,22.4,24.2,16.5,25.9,30.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1117,Karthick Menon,karthick9@outlook.com,35.0,92.5,59.1,68.8,68.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1147,Hema Menon,hema672@gmail.com,35.0,85.6,43.4,65.9,24.6,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1293,Lakshmi Nair,lakshmi714@company.com,9.8,56.0,15.0,15.2,8.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1198,Pooja Reddy,pooja533@yahoo.com,27.2,62.9,44.1,62.3,34.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1207,Kavya Raj,kavya819@yahoo.com,35.0,73.6,35.3,74.9,25.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1056,Muthu Rao,muthu740@company.com,35.0,85.5,100.0,79.4,67.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1173,Swathi Kumar,swathi987@yahoo.com,35.0,58.0,46.5,43.2,12.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1185,Karthick Rao,karthick372@outlook.com,22.1,64.4,37.8,53.9,32.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1168,Nithya Murthy,nithya76@outlook.com,35.0,69.3,38.4,38.5,40.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1140,Priya Krishnan,priya770@outlook.com,33.9,71.9,73.8,56.0,62.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1254,Ashok Pillai,ashok753@yahoo.com,1.6,25.2,35.6,22.0,14.9,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1039,Deepa Balan,deepa218@outlook.com,35.0,100.0,76.5,96.2,90.8,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1126,Sanjay Kumar,sanjay776@gmail.com,31.5,90.1,39.9,64.7,72.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1196,Karthick Rao,karthick955@outlook.com,35.0,59.8,41.4,61.2,17.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1284,Sanjay Chandran,sanjay271@company.com,16.5,21.6,45.4,24.8,25.2,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1138,Sneha Reddy,sneha741@gmail.com,35.0,78.8,45.2,89.6,67.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1113,Sanjay Raj,sanjay344@company.com,35.0,84.5,47.8,76.8,55.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1169,Pooja Gopal,pooja763@company.com,35.0,75.7,34.1,45.8,27.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1118,Sanjay Venkat,sanjay812@outlook.com,35.0,80.8,40.7,83.0,70.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1278,Karthick Varma,karthick98@gmail.com,0.0,37.9,15.0,30.2,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1272,Nithya Venkat,nithya313@gmail.com,14.2,31.4,32.0,39.2,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1156,Nithya Reddy,nithya320@outlook.com,26.9,52.7,59.3,67.4,9.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1177,Dinesh Varma,dinesh611@company.com,32.9,49.9,57.0,45.8,43.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1179,Kavya Shankar,kavya227@outlook.com,35.0,79.1,34.3,51.6,22.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1003,Ganesh Shankar,ganesh832@gmail.com,35.0,91.6,59.3,81.2,88.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1116,Priya Menon,priya871@outlook.com,35.0,81.8,64.0,72.5,54.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1144,Priya Raj,priya931@outlook.com,35.0,77.0,76.9,72.6,54.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1178,Kiran Rao,kiran680@outlook.com,35.0,64.3,35.0,43.0,30.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1121,Deepa Selvam,deepa237@outlook.com,35.0,65.4,58.1,86.2,67.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1211,Sanjay Varma,sanjay485@outlook.com,35.0,38.8,27.6,38.3,33.8,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1261,Priya Gopal,priya471@gmail.com,9.1,45.8,33.9,39.8,8.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1128,Suresh Kumar,suresh681@gmail.com,35.0,96.9,42.8,88.2,69.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1075,Divya Nair,divya377@gmail.com,35.0,100.0,95.1,89.8,57.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1030,Karthick Ramanathan,karthick793@outlook.com,35.0,100.0,82.4,83.3,71.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1084,Vignesh Shankar,vignesh696@yahoo.com,35.0,100.0,60.1,78.6,33.6,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1270,Ramesh Menon,ramesh889@gmail.com,2.9,52.3,24.3,31.4,25.8,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1108,Muthu Balan,muthu602@outlook.com,35.0,82.9,55.4,55.7,54.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1224,Revathi Pillai,revathi565@yahoo.com,33.9,65.1,40.9,27.7,29.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1159,Uma Shankar,uma725@company.com,31.8,39.1,21.6,58.1,42.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1281,Divya Rao,divya443@company.com,1.2,47.1,15.0,52.3,7.2,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1247,Bhavani Prasad,bhavani453@outlook.com,21.1,15.0,16.4,15.2,32.5,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1223,Bhavani Murthy,bhavani184@yahoo.com,24.3,64.0,39.3,58.8,23.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1066,Manoj Subramaniam,manoj752@yahoo.com,33.9,99.3,89.6,89.5,51.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1199,Anitha Menon,anitha262@outlook.com,29.6,54.0,34.2,37.0,44.9,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1086,Anitha Chandran,anitha346@outlook.com,32.4,88.4,52.3,67.8,67.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1214,Revathi Selvam,revathi909@yahoo.com,25.7,67.6,38.9,32.6,42.3,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1160,Naveen Krishnan,naveen233@yahoo.com,35.0,58.0,28.9,62.8,44.3,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1013,Kavya Murthy,kavya574@gmail.com,35.0,100.0,92.3,99.9,85.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1036,Ganesh Nair,ganesh474@gmail.com,35.0,100.0,97.6,81.2,73.8,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1029,Muthu Gopal,muthu302@gmail.com,35.0,78.6,82.1,94.6,87.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1143,Kavya Prasad,kavya134@yahoo.com,35.0,55.4,75.6,42.9,85.7,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1285,Naveen Subramaniam,naveen377@gmail.com,6.8,55.1,19.1,25.2,13.8,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1255,Swathi Murthy,swathi116@gmail.com,16.2,52.0,17.8,10.0,29.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1171,Ashok Iyer,ashok725@outlook.com,35.0,61.8,39.4,45.2,50.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1052,Bhavani Shankar,bhavani476@company.com,35.0,99.8,73.0,89.7,76.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1096,Kiran Murthy,kiran610@yahoo.com,35.0,92.4,50.6,60.4,61.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1209,Bhavani Iyer,bhavani380@gmail.com,35.0,58.4,54.7,61.1,15.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1248,Uma Menon,uma93@company.com,18.4,27.6,51.3,10.0,7.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1042,Kavya Subramaniam,kavya556@gmail.com,35.0,100.0,85.9,96.2,78.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1090,Suresh Gopal,suresh148@outlook.com,35.0,95.9,56.9,65.8,71.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1245,Arjun Gopal,arjun687@company.com,4.0,45.8,25.7,31.1,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1137,Suresh Gopal,suresh459@yahoo.com,35.0,100.0,76.1,48.8,37.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1027,Anitha Raj,anitha277@outlook.com,35.0,100.0,67.0,89.8,85.8,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1294,Sneha Krishnan,sneha444@yahoo.com,17.9,39.1,31.8,38.6,10.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1142,Karthick Shankar,karthick702@yahoo.com,35.0,70.9,46.6,58.3,65.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1201,Divya Gopal,divya302@gmail.com,13.9,59.0,26.9,60.6,41.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1001,Manoj Subramaniam,manoj88@gmail.com,35.0,98.3,92.8,100.0,76.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1269,Praveen Iyer,praveen544@company.com,14.5,42.6,26.1,10.0,14.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1273,Pooja Balan,pooja840@company.com,20.1,32.5,19.4,25.4,16.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1101,Revathi Selvam,revathi620@company.com,35.0,80.7,81.3,37.0,83.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1260,Dinesh Reddy,dinesh959@gmail.com,0.0,51.6,33.1,19.9,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1256,Manoj Rao,manoj105@gmail.com,0.0,45.7,15.0,35.2,15.2,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1172,Kavya Murthy,kavya582@company.com,32.4,70.6,36.7,49.1,43.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1099,Anitha Gopal,anitha641@gmail.com,35.0,81.6,69.5,60.3,35.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1037,Bhavani Kumar,bhavani751@outlook.com,34.9,98.4,75.5,84.8,82.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1062,Anitha Raj,anitha348@yahoo.com,35.0,89.8,73.8,94.7,76.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1151,Sanjay Ramanathan,sanjay493@gmail.com,26.4,28.9,38.4,55.5,19.3,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1237,Priya Gopal,priya868@outlook.com,15.2,38.6,17.4,29.1,12.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1203,Ravi Rao,ravi551@gmail.com,32.6,68.1,47.6,39.5,35.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1243,Hema Krishnan,hema218@company.com,17.9,38.7,26.8,16.3,48.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1012,Praveen Subramaniam,praveen541@company.com,35.0,100.0,100.0,98.1,84.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1297,Karthick Rao,karthick285@yahoo.com,0.0,40.0,35.2,27.4,17.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1268,Naveen Gopal,naveen76@company.com,5.8,46.3,20.6,18.6,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1028,Naveen Gopal,naveen172@company.com,35.0,100.0,80.5,97.1,100.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1220,Kiran Subramaniam,kiran835@outlook.com,18.8,67.9,47.3,49.7,34.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1005,Sneha Raj,sneha390@outlook.com,35.0,95.6,89.5,73.3,74.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1123,Karthick Prasad,karthick592@outlook.com,35.0,98.3,56.5,53.2,61.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1033,Nithya Venkat,nithya665@outlook.com,34.2,93.3,83.5,68.2,100.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1205,Bhavani Pillai,bhavani988@outlook.com,35.0,64.2,30.8,61.7,23.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1163,Manoj Nair,manoj701@gmail.com,33.7,60.4,27.1,56.9,50.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1210,Naveen Menon,naveen576@gmail.com,35.0,31.8,49.0,56.1,58.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1286,Lakshmi Raj,lakshmi296@yahoo.com,18.1,23.3,29.3,33.0,5.2,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1139,Ravi Iyer,ravi781@gmail.com,35.0,65.4,84.0,54.9,47.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1063,Nithya Krishnan,nithya389@outlook.com,35.0,91.0,100.0,91.6,96.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1136,Ashok Raj,ashok320@yahoo.com,35.0,76.1,71.7,58.3,75.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1129,Hema Kumar,hema305@company.com,35.0,85.2,51.8,54.8,87.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1291,Praveen Ramanathan,praveen866@yahoo.com,24.5,35.0,40.3,10.0,16.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1009,Arjun Balan,arjun503@yahoo.com,35.0,100.0,87.9,87.6,96.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1071,Praveen Prasad,praveen363@yahoo.com,35.0,92.5,58.7,100.0,66.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1265,Uma Rao,uma977@yahoo.com,24.2,36.0,15.3,13.4,22.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1065,Ramesh Gopal,ramesh133@gmail.com,35.0,100.0,85.9,100.0,60.7,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1045,Ashok Selvam,ashok873@outlook.com,31.4,85.4,77.0,100.0,100.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1280,Sanjay Raj,sanjay918@yahoo.com,8.8,26.3,20.2,51.2,16.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1157,Meena Rao,meena169@gmail.com,35.0,75.7,30.0,43.0,43.9,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1041,Hema Kumar,hema929@gmail.com,35.0,100.0,92.8,91.8,53.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1124,Ashok Shankar,ashok284@gmail.com,35.0,77.9,63.0,59.0,73.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1276,Revathi Shankar,revathi29@company.com,23.9,48.8,15.0,32.3,36.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1217,Divya Iyer,divya102@yahoo.com,35.0,60.2,52.8,53.0,35.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1154,Deepa Kumar,deepa87@gmail.com,35.0,52.3,47.0,33.3,40.9,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1024,Kiran Ramanathan,kiran896@outlook.com,35.0,100.0,76.8,93.3,84.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1262,Kiran Shankar,kiran515@company.com,4.3,15.0,33.3,10.0,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1111,Lakshmi Nair,lakshmi955@company.com,35.0,78.2,49.6,87.2,74.1,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1082,Arjun Chandran,arjun503@outlook.com,35.0,58.2,77.6,63.2,42.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1208,Ashok Menon,ashok796@gmail.com,22.5,58.8,54.6,47.3,32.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1213,Naveen Prasad,naveen383@company.com,35.0,66.0,23.4,42.4,29.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1040,Bhavani Kumar,bhavani325@gmail.com,35.0,94.7,86.6,100.0,59.9,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1241,Sanjay Iyer,sanjay973@yahoo.com,5.3,42.5,15.0,49.8,40.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1292,Praveen Kumar,praveen823@yahoo.com,5.2,15.0,16.7,25.1,26.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1259,Lakshmi Pillai,lakshmi558@company.com,4.7,18.0,27.6,13.0,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1200,Anitha Venkat,anitha380@outlook.com,34.7,51.1,29.2,41.4,39.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1015,Dinesh Rao,dinesh318@gmail.com,35.0,100.0,69.3,77.8,72.9,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1048,Bhavani Nair,bhavani163@yahoo.com,35.0,100.0,93.0,80.2,79.9,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1095,Uma Prasad,uma727@company.com,35.0,96.4,60.7,70.0,68.6,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1264,Sanjay Reddy,sanjay753@company.com,5.4,40.5,34.4,21.5,6.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1228,Manoj Rao,manoj716@gmail.com,10.7,15.0,24.7,29.7,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1274,Muthu Kumar,muthu318@outlook.com,0.0,29.8,33.1,23.1,29.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1202,Uma Varma,uma363@outlook.com,13.1,56.3,36.0,54.5,58.8,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1162,Praveen Shankar,praveen283@outlook.com,19.4,66.0,48.9,50.4,38.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1044,Kavya Nair,kavya457@company.com,35.0,100.0,92.0,81.2,92.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1218,Ramesh Prasad,ramesh731@outlook.com,35.0,51.3,47.9,16.1,78.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1146,Ashok Murthy,ashok117@outlook.com,35.0,77.2,71.4,39.6,65.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1191,Suresh Selvam,suresh764@gmail.com,26.1,45.5,62.5,42.8,37.2,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1221,Meena Iyer,meena414@yahoo.com,35.0,61.7,37.6,54.4,61.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1252,Muthu Varma,muthu548@gmail.com,0.0,26.0,42.8,21.9,19.3,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1004,Praveen Pillai,praveen428@gmail.com,35.0,93.8,77.8,100.0,84.1,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1106,Bhavani Selvam,bhavani888@outlook.com,35.0,81.0,72.4,67.9,59.2,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1054,Swathi Chandran,swathi233@gmail.com,35.0,100.0,96.8,96.6,80.8,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1134,Sneha Ramanathan,sneha664@yahoo.com,35.0,87.1,68.2,52.3,70.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1002,Hema Kumar,hema460@outlook.com,35.0,100.0,94.2,83.4,87.6,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1132,Ganesh Menon,ganesh814@outlook.com,35.0,65.4,67.1,41.2,57.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1104,Swathi Iyer,swathi146@outlook.com,35.0,88.4,40.0,48.9,60.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1050,Nithya Shankar,nithya657@yahoo.com,35.0,81.0,85.9,100.0,83.3,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1081,Anitha Reddy,anitha295@company.com,35.0,58.5,69.3,71.2,78.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1206,Naveen Kumar,naveen332@outlook.com,35.0,67.1,37.0,53.7,55.8,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1035,Ganesh Reddy,ganesh820@company.com,35.0,100.0,69.7,100.0,100.0,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1092,Anitha Pillai,anitha643@company.com,35.0,100.0,58.2,25.0,60.0,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1053,Naveen Kumar,naveen934@gmail.com,35.0,90.1,91.2,100.0,78.5,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1242,Vignesh Iyer,vignesh616@yahoo.com,13.6,44.2,40.1,27.5,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1014,Ganesh Pillai,ganesh190@gmail.com,35.0,88.5,80.0,70.4,75.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1089,Ashok Pillai,ashok180@outlook.com,35.0,79.7,66.0,72.3,69.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1167,Ashok Murthy,ashok20@gmail.com,35.0,71.2,28.0,25.3,18.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1295,Pooja Murthy,pooja311@outlook.com,3.9,70.4,39.9,10.0,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1135,Sanjay Gopal,sanjay662@company.com,35.0,79.6,58.0,73.9,80.3,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1288,Divya Kumar,divya888@yahoo.com,7.3,45.7,15.0,24.2,8.4,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1244,Kavya Varma,kavya507@gmail.com,15.4,35.6,22.5,15.9,5.7,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1055,Hema Reddy,hema122@company.com,35.0,100.0,99.4,100.0,78.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1051,Ravi Varma,ravi858@yahoo.com,35.0,100.0,100.0,76.6,47.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1175,Ramesh Krishnan,ramesh445@gmail.com,34.9,65.4,36.6,42.2,25.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1190,Karthick Iyer,karthick442@gmail.com,24.9,55.2,51.3,42.9,50.9,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1299,Nithya Chandran,nithya382@company.com,7.5,30.9,15.0,17.9,5.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1188,Ashok Balan,ashok896@outlook.com,22.4,55.3,33.9,72.6,35.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1170,Kiran Nair,kiran980@gmail.com,27.1,69.3,22.2,52.4,54.5,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1059,Dinesh Gopal,dinesh461@gmail.com,35.0,86.0,83.7,100.0,71.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1049,Anitha Varma,anitha393@outlook.com,35.0,100.0,86.1,91.2,76.4,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1236,Nithya Varma,nithya565@company.com,11.4,30.9,54.6,11.1,29.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1253,Ganesh Reddy,ganesh944@yahoo.com,20.5,45.7,15.0,18.1,21.6,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1022,Hema Gopal,hema2@gmail.com,35.0,96.1,94.8,72.8,83.2,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1161,Anitha Prasad,anitha647@yahoo.com,35.0,70.1,35.2,67.0,38.0,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1277,Divya Nair,divya412@outlook.com,5.1,28.9,15.0,10.0,16.1,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1192,Meena Menon,meena142@company.com,35.0,63.4,54.0,44.7,24.1,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1258,Ganesh Varma,ganesh84@yahoo.com,19.3,29.3,22.4,10.0,34.9,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1150,Meena Pillai,meena741@gmail.com,35.0,68.6,62.3,58.6,39.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1131,Bhavani Krishnan,bhavani133@outlook.com,20.0,76.8,65.7,90.8,58.6,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1152,Sanjay Shankar,sanjay768@yahoo.com,35.0,58.5,39.8,61.4,21.7,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1100,Ramesh Balan,ramesh840@outlook.com,35.0,61.6,61.6,80.0,56.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1088,Swathi Raj,swathi347@gmail.com,35.0,78.0,75.2,42.5,61.8,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1215,Muthu Gopal,muthu613@company.com,17.0,57.7,62.3,40.3,46.4,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1122,Revathi Pillai,revathi985@company.com,35.0,65.2,64.4,72.8,79.9,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1300,Arjun Venkat,arjun195@outlook.com,1.0,38.1,25.5,46.0,8.0,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1021,Arjun Reddy,arjun640@yahoo.com,35.0,81.4,85.8,75.1,86.6,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1189,Revathi Chandran,revathi935@outlook.com,35.0,67.4,39.3,59.3,35.6,MEDIUM,MEDIUM,Moderate salary band; suggest skill development programs and periodic performance review.
+EMP1072,Naveen Pillai,naveen86@outlook.com,35.0,80.1,88.5,83.2,83.6,VERY HIGH,LOW,Excellent profile. Consider for leadership track and a retention bonus to prevent poaching.
+EMP1107,Karthick Selvam,karthick998@gmail.com,35.0,100.0,66.3,51.1,67.4,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+EMP1271,Uma Selvam,uma659@company.com,0.0,56.8,25.5,21.7,18.8,LOW,HIGH,"Below-market compensation indicated; recommend training, mentorship, and a compensation review."
+EMP1103,Ashok Varma,ashok926@gmail.com,35.0,82.9,64.7,67.2,42.5,HIGH,LOW,"Strong performer, eligible for a merit-based increment; monitor market benchmarks."
+123,Anu,ssherinkerenhap@gmail.com,5.0,4.0,9.0,76.0,87.0,LOW,HIGH,"Given Anu's high performance rating (9/10), solid skill proficiency, and historically high percentile placement (87th), a competitive salary of $128,500 is recommended to retain top talent and reward strong contributions."
+23,Sakthi,anupriyasakthi20@gmail.com,2.0,4.0,10.0,8.0,87.0,LOW,HIGH,"Despite having only 2 years of experience, Sakthi exhibits exceptional performance (10/10) and strong skills with an advanced education level. Setting compensation at $105,000 recognizes top-tier contributions, aligns with high historical pay percentiles, and ensures key talent retention."
+34,Anu,kerenhap23@gmail.com,5.0,7.0,5.0,8.0,67.0,LOW,HIGH,"Given Anu's top-tier performance rating (5/5), advanced education, and strong technical skills, increase compensation from the 67th percentile to the 80th percentile market band (~$125,000) to reflect high output and prevent flight risk."
+23,sherin,ssherinkerenhap@gmail.com,6.0,4.0,23.0,7.0,87.0,LOW,HIGH,"Offer an annual salary around $125,000 to align with her high previous salary percentile (87th) and advanced education level, while setting targeted performance objectives to further elevate her skill score."
+23,jaya,kerenhap23@gmail.com,6.0,4.0,6.0,57.0,78.0,LOW,HIGH,"Jaya benefits from strong education and a historically high pay percentile. To justify further increases beyond this competitive $102,500 baseline, recommend targeted upskilling programs to improve her current skill score of 57."
+34,sfr,ssherinkerenhap@gmail.com,6.0,4.0,7.0,56.0,87.0,LOW,HIGH,"Maintain a competitive salary around $125,000 given the employee's high education level and strong previous salary baseline, while offering targeted skill development programs to boost their skill score from 56."
+23,karthi,ssherinkerenhap@gmail.com,5.0,6.0,7.0,76.0,89.0,LOW,HIGH,"Offer an annual compensation around $125,000 to remain competitive with the candidate's strong salary history (89th percentile) and advanced education. Encourage targeted skill development to improve the 76 skill score for future career progression."
+123,sherin,ssherinkerenhap@gmail.com,5.0,17.0,56.0,67.0,98.0,MEDIUM,MEDIUM,"Set the target salary at $125,000 USD to respect the candidate's high historical pay baseline while aligning compensation with current moderate performance (56) and skill (67) scores. Future raises should be linked to performance improvements."
+12,sherin,ssherinkerenhap@gmail.com,40.0,58.0,57.0,78.0,89.0,HIGH,LOW,"Given Sherin's extensive 40 years of experience and high prior salary percentile (89th), target a competitive annual base of $175,000 while implementing a structured performance plan to help elevate the current performance rating (57)."
