@@ -1,0 +1,18 @@
+Employee Salary Prediction - Model Evaluation
+Model: Logistic Regression
+Training rows: 240
+Testing rows: 60
+Features: Experience, Education Level, Performance Rating, Skill Score, Previous Salary Percentile
+Accuracy: 96.67%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         LOW       1.00      0.93      0.97        15
+      MEDIUM       0.94      1.00      0.97        15
+        HIGH       0.94      1.00      0.97        15
+   VERY HIGH       1.00      0.93      0.97        15
+
+    accuracy                           0.97        60
+   macro avg       0.97      0.97      0.97        60
+weighted avg       0.97      0.97      0.97        60
