@@ -151,6 +151,31 @@ flowchart TD
 - retention risk level
 - Recommendation.
 
+![Project image](salary.png)<img width="940" height="724" alt="salary png" src="https://github.com/user-attachments/assets/8418db12-695c-40f0-a82c-02126edeeb4b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ## 13. Proposed System Architecture
 
 Employee Details → Validation → Preprocessing → ML Model → Salary Category + Risk → AI Recommendation (Gemini) → Email (Gmail via n8n) → Display + CSV Log
