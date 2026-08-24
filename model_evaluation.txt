@@ -2,7 +2,7 @@ Employee Salary Prediction - Model Evaluation
 Model: Logistic Regression
 Training rows: 240
 Testing rows: 60
-Features: Experience, Education Level, Performance Rating, Skill Score, Previous Salary Percentile
+Features: Experience, Education Level, Performance Rating
 Accuracy: 96.67%
 
 Classification Report:
