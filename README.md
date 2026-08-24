@@ -129,8 +129,12 @@ flowchart TD
 - Apply pack(), grid(), and place() for layout management
 - Implement event-driven programming using button callbacks, validate user inputs
 - Develop a functional Tkinter prototype.
+## 12.V-MODEL
 
-## 12. From Requirements to System Design
+
+
+
+## 13. From Requirements to System Design
 
 ### Input
 - Employee ID,
@@ -150,7 +154,7 @@ flowchart TD
 - predicted salary category
 - retention risk level
 - Recommendation.
-## 13. Employee Salary Prediction and Analysis System - Testing
+## 14. Employee Salary Prediction and Analysis System - Testing
 
 This folder contains the testing files for the V-Model testing stages.
 
@@ -240,11 +244,11 @@ testing/
 
   
 
-## 14. Proposed System Architecture
+## 15. Proposed System Architecture
 
 Employee Details → Validation → Preprocessing → ML Model → Salary Category + Risk → AI Recommendation (Gemini) → Email (Gmail via n8n) → Display + CSV Log
 
-## 15. UI Design Requirements
+## 16. UI Design Requirements
 
 The application should contain
 ### 1. Employee Information Section
@@ -254,8 +258,6 @@ The application should contain
  - Years of Experience
  - Education Level
  - Performance Rating
- - Skill Score
- - Previous Salary Percentile
 ### 3. Action Section
  - Predict Salary
  - Clear
@@ -264,7 +266,7 @@ The application should contain
  - Predicted Salary Category
  - Retention Risk
  - Recommendation.
-## 16. Using Frames
+## 17. Using Frames
 ### The main window:
 - Header frames
 - employee information
