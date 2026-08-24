@@ -19,9 +19,7 @@ MODEL_FILE = "employee_salary_model.pkl"
 FEATURES = [
     "Experience",
     "Education Level",
-    "Performance Rating",
-    "Skill Score",
-    "Previous Salary Percentile"
+    "Performance Rating"
 ]
 
 TARGET = "Prediction"
