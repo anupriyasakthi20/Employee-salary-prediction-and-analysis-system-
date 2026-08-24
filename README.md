@@ -91,16 +91,11 @@ flowchart TD
 - Years of Experience
 - Education Level score
 - Performance Rating
-- Skill/Certification Score
-- Previous Salary Percentile
 #### Example:
 - Parameter	Example
 - Experience	6 years
 - Education Level	78%
 - Performance Rating	85%
-- Skill Score	80%
-- Previous Salary Percentile	70%
-
 ## 9. Identify System Outputs
 - Salary Category Prediction
 - Very High
@@ -142,8 +137,6 @@ flowchart TD
 - Years of Experience
 - Education Level
 - Performance Rating
-- Skill/Certification Score
-- Previous Salary Percentile as inputs
   ### Processing
 - validates input
 - Preprocesses data
@@ -263,7 +256,6 @@ The application should contain
  - Clear
  - Exit buttons
 ### 4. Result Section
- - Predicted Salary Category
  - Retention Risk
  - Recommendation.
 ## 17. Using Frames
@@ -273,18 +265,18 @@ The application should contain
 - professional information
 - Header frame
 - Results frame
-## 17. Workflow
+## 18. Workflow
 ```mermaid
 flowchart TD
     A[User clicks Predict] --> B[Button generates event]
     B --> C[Callback function executes]
     C --> D[Python processing starts]
 ```
-## 18. Requirements Design
+## 19. Requirements Design
 Same 900x650 / 1200x800 Tkinter grid-based layout as the prototype, split into
 Employee Information, Professional Information, Action buttons, and Predicted Result sections.
 
-## 19. Objective
+## 20. Objective
 - Understand the fundamentals of Machine Learning (ML)
 - Differentiate between traditional programming and ML-based systems
 - Work with datasets using Pandas & NumPy
@@ -294,7 +286,7 @@ Employee Information, Professional Information, Action buttons, and Predicted Re
 - Replace Day 2 rule-based logic with an ML-based prediction system
 - Prepare the ML model for integration with Tkinter UI
 
-## 20. OUTCOMES
+## 21. OUTCOMES
 ### Should complete:
 - Dataset (CSV file)
 - Data preprocessing code
@@ -302,14 +294,14 @@ Employee Information, Professional Information, Action buttons, and Predicted Re
 - Accuracy report
 - Prediction function
 - Saved model file (.pkl)
-## 21. Traditional Programming vs ML
+## 22. Traditional Programming vs ML
 
 | Traditional Programming | Machine Learning |
 |---|---|
 | Rules are written manually | Model learns rules from data |
 | Output = Logic + Input | Output = Model + Input |
 | Fixed logic | Adaptive learning |
-## 22. ML Workflow
+## 23. ML Workflow
 ```mermaid
 flowchart TD
     A[Data Collection] --> B[Data Preprocessing]
@@ -318,7 +310,7 @@ flowchart TD
     D --> E[Model Evaluation]
     E --> F[Prediction]
 ```
-## 23. ML WORKFLOW
+## 24. ML WORKFLOW
 ### Activity 1 – Dataset Creation
 Create employee dataset in CSV
 Add 20–50 records
@@ -338,7 +330,7 @@ Analyze results
 Test model with new input
 ### Activity 7 – Save Model
 Save model using Joblib
-## 24. Problem Type
+## 25. Problem Type
 ### For this Project:
 - Classification Problem
 ### Output categories:
@@ -348,6 +340,6 @@ Save model using Joblib
 - Low
 ### Regression Problem (Alternative)
 - Output = Actual Salary Value (numeric)
-## 25. Model Selection
+## 26. Model Selection
 ### Algorithms Introduced
 - Logistic Regression
