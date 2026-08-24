@@ -150,7 +150,72 @@ flowchart TD
 - predicted salary category
 - retention risk level
 - Recommendation.
+## 13. Employee Salary Prediction and Analysis System - Testing
 
+This folder contains the testing files for the V-Model testing stages.
+
+## Testing Stages
+
+### 1. Unit Testing
+
+Tests individual modules and functions.
+
+File:
+
+- test_validation.py
+- test_model.py
+- test_csv.py
+
+### 2. Integration Testing
+
+Tests integration between:
+
+- Tkinter GUI
+- Machine Learning model
+- n8n
+- Gemini AI
+- Gmail
+- CSV
+
+File:
+
+- test_n8n.py
+- test_gui.py
+
+### 3. System Testing
+
+Tests the major components of the complete application.
+
+File:
+
+- test_model.py
+- test_gui.py
+- test_csv.py
+
+### 4. Acceptance Testing
+
+Checks whether the system satisfies the required project structure and requirements.
+
+File:
+
+- test_requirements.py
+
+---
+
+## Files
+
+```text
+testing/
+│
+├── requirements.txt
+├── README.md
+├── test_requirements.py
+├── test_validation.py
+├── test_model.py
+├── test_csv.py
+├── test_n8n.py
+└── test_gui.py
+```
 
 
 
@@ -175,11 +240,11 @@ flowchart TD
 
   
 
-## 13. Proposed System Architecture
+## 14. Proposed System Architecture
 
 Employee Details → Validation → Preprocessing → ML Model → Salary Category + Risk → AI Recommendation (Gemini) → Email (Gmail via n8n) → Display + CSV Log
 
-## 14. UI Design Requirements
+## 15. UI Design Requirements
 
 The application should contain
 ### 1. Employee Information Section
@@ -199,7 +264,7 @@ The application should contain
  - Predicted Salary Category
  - Retention Risk
  - Recommendation.
-## 15. Using Frames
+## 16. Using Frames
 ### The main window:
 - Header frames
 - employee information
@@ -227,7 +292,7 @@ Employee Information, Professional Information, Action buttons, and Predicted Re
 - Replace Day 2 rule-based logic with an ML-based prediction system
 - Prepare the ML model for integration with Tkinter UI
 
-## 19. OUTCOMES
+## 20. OUTCOMES
 ### Should complete:
 - Dataset (CSV file)
 - Data preprocessing code
@@ -235,14 +300,14 @@ Employee Information, Professional Information, Action buttons, and Predicted Re
 - Accuracy report
 - Prediction function
 - Saved model file (.pkl)
-## 20. Traditional Programming vs ML
+## 21. Traditional Programming vs ML
 
 | Traditional Programming | Machine Learning |
 |---|---|
 | Rules are written manually | Model learns rules from data |
 | Output = Logic + Input | Output = Model + Input |
 | Fixed logic | Adaptive learning |
-## 21. ML Workflow
+## 22. ML Workflow
 ```mermaid
 flowchart TD
     A[Data Collection] --> B[Data Preprocessing]
@@ -251,7 +316,7 @@ flowchart TD
     D --> E[Model Evaluation]
     E --> F[Prediction]
 ```
-## 22. ML WORKFLOW
+## 23. ML WORKFLOW
 ### Activity 1 – Dataset Creation
 Create employee dataset in CSV
 Add 20–50 records
@@ -271,7 +336,7 @@ Analyze results
 Test model with new input
 ### Activity 7 – Save Model
 Save model using Joblib
-## 23. Problem Type
+## 24. Problem Type
 ### For this Project:
 - Classification Problem
 ### Output categories:
@@ -281,6 +346,6 @@ Save model using Joblib
 - Low
 ### Regression Problem (Alternative)
 - Output = Actual Salary Value (numeric)
-## 24. Model Selection
+## 25. Model Selection
 ### Algorithms Introduced
 - Logistic Regression
