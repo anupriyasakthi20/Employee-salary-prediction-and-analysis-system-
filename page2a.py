@@ -60,17 +60,17 @@ def submit():
             + previous_salary_percentile * 0.10
         )
 
-        if final_score >= 80:
+        if final_score >= 40:
             category = "VERY HIGH"
             risk = "LOW"
             recommendation = "Maintain competitive pay and offer growth opportunities."
 
-        elif final_score >= 65:
+        elif final_score >= 15:
             category = "HIGH"
             risk = "LOW"
             recommendation = "Eligible for a merit-based increment; monitor market benchmarks."
 
-        elif final_score >= 50:
+        elif final_score >= 10:
             category = "MEDIUM"
             risk = "MEDIUM"
             recommendation = "Suggest skill development programs and periodic performance review."
